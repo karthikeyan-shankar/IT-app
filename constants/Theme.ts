@@ -1,0 +1,30 @@
+export const Theme = {
+  colors: {
+    background: '#060B18',
+    secondary: '#0D1527',
+    glass: 'rgba(255, 255, 255, 0.06)',
+    glassBorder: 'rgba(255, 255, 255, 0.08)',
+    text: '#F1F5F9',
+    textSecondary: 'rgba(241, 245, 249, 0.6)',
+    textMuted: 'rgba(241, 245, 249, 0.35)',
+    accentBlue: '#4F8CFF',
+    accentPurple: '#8B5CF6',
+    accentGreen: '#22C55E',
+    accentYellow: '#FBBF24',
+    accentRed: '#EF4444',
+    accentOrange: '#F97316',
+  },
+  spacing: {
+    xs: 4,
+    sm: 8,
+    md: 16,
+    lg: 24,
+    xl: 32,
+  },
+  radius: {
+    sm: 12,
+    md: 16,
+    lg: 24,
+    xl: 28,
+  },
+};
